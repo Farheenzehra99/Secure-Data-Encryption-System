@@ -2,7 +2,7 @@
 
 A sleek, secure, and modern Streamlit-based application to **encrypt, store, and retrieve sensitive data** using **256-bit encryption** powered by the `cryptography` library. Designed with glassmorphism UI, this project ensures both security and aesthetics.
 
-![Streamlit App Screenshot]("https://fintechweekly.s3.amazonaws.com/article/438/How_to_Prevent_Biometrics_Hacking_in_Banking_Apps-min.png")
+![Streamlit App Screenshot](https://fintechweekly.s3.amazonaws.com/article/438/How_to_Prevent_Biometrics_Hacking_in_Banking_Apps-min.png)
 
 ## ✨ Features
 
